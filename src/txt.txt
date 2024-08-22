@@ -1,0 +1,3 @@
+rce for class component
+rafce =functjonal component
+props to pass value
